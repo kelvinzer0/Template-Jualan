@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-08-28T13:25:00.000Z",
+  "templates": [
+    {
+      "id": "marketing_step_1_intro_cold_contact",
+      "name": "Marketing Step 1 - Salam & Perkenalan",
+      "content": "Assalamualaikum kak \nSelamat {{waktu}} kak, saya {{agen}} dari tim {{brand}}...\nGmn kabar kak hari ini?"
+    },
+    {
+      "id": "marketing_step_1_intro_warm_contact",
+      "name": "Marketing Step 1 - Salam & Perkenalan",
+      "content": "Assalamualaikum kak {{nama}} 🙏\nSelamat {{waktu}} kak, saya {{agen}} dari tim {{brand}}...\nGmn kabar kak hari ini?"
+    },
+    {
+      "id": "marketing_step_2_comparison",
+      "name": "Marketing Step 2 - Perbandingan Produk",
+      "content": "[GAMBAR] untuk perbedaan bisa di cek kak.."
+    },
+    {
+      "id": "marketing_step_3_pause",
+      "name": "Marketing Step 3 - Jeda Natural",
+      "content": "Kurang lebihnya seperti itu kak.."
+    },
+    {
+      "id": "marketing_step_4_call",
+      "name": "Marketing Step 4 - Ajakan Call",
+      "content": "Bisa call kah kak..? Lagi senggang kah kak?"
+    },
+    {
+      "id": "marketing_step_5_showoff_intro",
+      "name": "Marketing Step 5 - Showoff Produk (Awal)",
+      "content": "[GAMBAR] untuk bentuk {{feature_titik_tumpu}} nya seperti ini kak"
+    },
+    {
+      "id": "marketing_step_6_showoff_detail",
+      "name": "Marketing Step 6 - Showoff Produk (Detail)",
+      "content": "[GAMBAR] dan ini bentuk {{feature_yang_ditanyakan_client}} nya kak..."
+    },
+    {
+      "id": "marketing_step_7_closing",
+      "name": "Marketing Step 7 - Closing CTA",
+      "content": "📝 TERSERAH"
+    }
+  ]
+}

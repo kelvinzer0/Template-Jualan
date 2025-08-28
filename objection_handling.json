@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "exportDate": "2025-08-28T13:40:00.000Z",
+  "templates": [
+    {
+      "id": "objection_handling_mahal",
+      "name": "Objection Handling - Harga Terasa Mahal (Value-Oriented)",
+      "content": "Saya mengerti kak, memang penting untuk pertimbangkan anggaran dengan matang. 🙏\n\nYang membuat banyak pelanggan memilih {{brand}} adalah karena *ketahanan produk dan layanan after-sales-nya*. Jadi, ini lebih seperti investasi jangka panjang untuk *hemat biaya perbaikan dan dapat ketenangan* ke depannya.\n\nBoleh saya share contoh perbandingan pemakaian dalam 1 tahun dengan brand lain?"
+    },
+    {
+      "id": "objection_handling_nanti_dulu",
+      "name": "Objection Handling - Nanti Dulu / Tunda (Empathy-Oriented)",
+      "content": "Tentu saja, kak. Memang keputusan yang tepat butuh pertimbangan yang tepat juga. 👍\n\nDaripada bapak/ibu cari info lagi nanti, boleh saya kirimkan saja *ringkasan manfaat dan testimoni pelanggan* kami? Jadi tinggal dibaca saat sudah ada waktu. Tidak ada tekanan untuk beli sekarang.\n\nGimana, kak? Apa email atau boleh lewat chat ini saja?"
+    },
+    {
+      "id": "objection_handling_sudah_pakai_brand_lain",
+      "name": "Objection Handling - Sudah Pakai Brand Lain (Collaborative-Oriented)",
+      "content": "Wah, bagus sekali! Senang sekali bisa berbicara dengan yang sudah ahli. 😊\n\nSebagai bahan pertimbangan untuk masa depan, banyak pelanggan kami yang sebelumnya pakai brand X juga, beralih ke {{brand}} karena *{{key_advantage}}*-nya. Mereka merasakan bahwa *{{main_benefit}}*.\n\nBoleh saya bagikan insight yang mereka dapatkan? Bisa jadi tambahan referensi yang valuable."
+    }
+  ]
+}

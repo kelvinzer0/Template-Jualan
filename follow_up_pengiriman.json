@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-08-28T12:25:00.000Z",
+  "templates": [
+    {
+      "id": "follow_up_1",
+      "name": "Follow Up Pengiriman 1 - Proses Order",
+      "content": "Halo kak {{nama}}, pesanan sudah kami proses dengan resi {{resi}} yang akan dikirim ke {{alamat}}. Mohon ditunggu untuk kurir {{ekspedisi}} pickup ya🙏"
+    },
+    {
+      "id": "follow_up_2",
+      "name": "Follow Up Pengiriman 2 - Pickup Kurir",
+      "content": "Halo kak {{nama}}, pesanan dengan resi {{resi}} sudah dipickup kurir. Mohon ditunggu sekitar 3 - 5 hari untuk proses pengirimannya yaa, terima kasih😊"
+    },
+    {
+      "id": "follow_up_3",
+      "name": "Follow Up Pengiriman 3 - Kurir Menuju Lokasi",
+      "content": "Halo kak {{nama}}, kami mendapatkan informasi dari ekspedisi bahwa kurir sedang menuju lokasi kakak di {{alamat}}. Mohon untuk merespon ketika dihubungi oleh kurir ya kak dan disiapkan uang untuk pembayaran COD nya ya kak, sebesar Rp {{total_cod}}, terima kasih😊"
+    },
+    {
+      "id": "follow_up_4",
+      "name": "Follow Up Pengiriman 4 - Gagal Terkirim",
+      "content": "Halo kak {{nama}}, kami mendapat informasi dari ekspedisi bahwa pengirimannya belum berhasil terkirim. Apa sudah dihubungi dari pihak ekspedisi atau kurirnya kak? Mohon dibalas ya kak🙏"
+    }
+  ]
+}
